@@ -1,0 +1,22 @@
+Input: Marks = 95
+Output: Grade A
+
+
+Input: Marks = 83
+Output: Grade B
+
+
+Input: Marks = 72
+Output: Grade C
+
+
+Input: Marks = 61
+Output: Grade D
+
+
+Input: Marks = 45
+Output: Grade F
+
+
+Input: Marks = 110
+Output: Invalid input message
